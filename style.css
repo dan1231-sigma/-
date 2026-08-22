@@ -1,0 +1,13 @@
+#flag {
+  display: block;
+  width: 220px;
+  height: 120px;
+  object-fit: contain;
+  background: #f3f4f6;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.flag-empty {
+  display: none;
+}
